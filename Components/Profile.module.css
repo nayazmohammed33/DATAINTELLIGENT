@@ -1,0 +1,23 @@
+.name{
+    font-weight: 900;
+    padding: 5px 0;
+}
+
+
+.CardFront{
+    margin-left: 10px;
+    padding-left: 10px;
+    display: inline-block;
+   
+    
+
+}
+
+
+.body{
+    background-color: lightgray
+
+}
+.container{
+    background-color: antiquewhite;
+}
